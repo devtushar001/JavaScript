@@ -128,10 +128,16 @@ const sum = (a = 7, b = 9) => {
 // console.log(str.includes("Hello")); // true
 // console.log(str.includes("Nube")); // false
 
-let str = "Hello, World!";
+// let str = "Hello, World!";
 // console.log(str.slice(0, 5));
 
 // console.log(str.slice(7));
 
-let newStr = str.replace("World!", "Universe!");
-console.log(newStr);
+// let newStr = str.replace("World!", "Universe!");
+// console.log(newStr);
+
+// console.log(a); //Cannot access 'a' before initialization
+// let a = 5; 
+
+// let a;
+// console.log(a); // undefined
