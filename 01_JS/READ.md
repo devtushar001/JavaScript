@@ -135,26 +135,29 @@ Build Projects
 Stage 5: Ecosystem and Career Focus
 --------------------------------------------------------------------------------
 
-Version Control
+1.Version Control
+    Git and GitHub workflows
+    
+2.Advanced Tools
+    Webpack, Babel
+    npm/yarn, package management
+    
+3.TypeScript
+    Static typing
+    Type declarations
+    
+4.Back-end with Node.js
+    Build REST APIs with Express.js
+    Integrate with databases (MongoDB, PostgreSQL)
+    
+5.Soft Skills
+    Problem-solving with DSA in JavaScript
+    Contributing to open-source projects
 
-Git and GitHub workflows
-Advanced Tools
-
-Webpack, Babel
-npm/yarn, package management
-TypeScript
-
-Static typing
-Type declarations
-Back-end with Node.js
-
-Build REST APIs with Express.js
-Integrate with databases (MongoDB, PostgreSQL)
-Soft Skills
-
-Problem-solving with DSA in JavaScript
-Contributing to open-source projects
+-------------------------------------------------------------------------------------------------
 Tips for Success
+-------------------------------------------------------------------------------------------------
+
 Practice Daily: Use coding platforms like Codewars, LeetCode, or HackerRank.
 Build Real-World Projects: Implement features seen in popular apps.
 Read Documentation: Regularly visit the MDN Web Docs.
